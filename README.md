@@ -21,6 +21,7 @@ Mỗi bài đăng được xem như một Node trong Linked List, giúp minh h�
 - Nền tảng: .NET (WinForms)
 - IDE: Visual Studio
 - Cấu trúc dữ liệu: Single Linked List
+- Framework 4.7.2
 
 ## Hướng dẫn cài đặt và chạy chương trình
 1. Vào repository GitHub
