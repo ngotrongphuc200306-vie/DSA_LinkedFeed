@@ -18,11 +18,25 @@ Mỗi bài đăng được xem như một Node trong Linked List, giúp minh h�
 
 ## Công nghệ sử dụng
 - Ngôn ngữ: C#
-- Nền tảng: .NET (WinForms)
-- IDE: Visual Studio
-- Cấu trúc dữ liệu: Single Linked List
-- Framework 4.7.2
 
+## Thư viện sử dụng (Libraries)
+- **WinForms.DataVisualization (v1.10.0)**: Thư viện dùng để vẽ biểu đồ trực quan hóa dữ liệu tương tác.
+- **Microsoft.NET.Sdk**: Bộ thư viện phát triển phần mềm cho nền tảng .NET 8.
+- **System.Windows.Forms**: Thư viện nền tảng để xây dựng giao diện người dùng Windows.
+## Danh sách thư viện sử dụng (Library & Framework)
+
+### 1. Framework & SDK
+- **.NET 8.0 (Windows)**: Nền tảng thực thi ứng dụng chính.
+- **Microsoft.NET.Sdk**: Bộ công cụ phát triển phần mềm chuẩn.
+
+### 2. Thư viện giao diện & Dữ liệu
+- **WinForms.DataVisualization (v1.10.0)**: Thư viện hỗ trợ vẽ biểu đồ trực quan hóa số liệu.
+- **System.Windows.Forms**: Thư viện xây dựng giao diện người dùng Windows.
+- **System.Collections.Generic**: Thư viện hỗ trợ các tập hợp dữ liệu.
+
+### 3. Thư viện logic tự định nghĩa
+- **SingleLinkList.Scripts**: Chứa các lớp (class) xử lý cấu trúc dữ liệu Single Linked List và logic nghiệp vụ của ứng dụng.
+  
 ## Hướng dẫn cài đặt và chạy chương trình
 1. Vào repository GitHub
 2. Chọn Code → Download ZIP
@@ -34,7 +48,7 @@ Mỗi bài đăng được xem như một Node trong Linked List, giúp minh h�
 8. Nhấn Run để chạy chương trình
 
 ## Lưu ý
-- Cần có Visual Studio để chạy chương trình
+- Cần có Visual Studio 2022 để chạy chương trình
 - Nếu gặp lỗi resource (.resx), hãy kiểm tra việc Unblock file ZIP trước khi giải nén
 
 ## Tác giả
